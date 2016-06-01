@@ -1,0 +1,12 @@
+.lista {
+    list-style: none;
+}
+
+.card .card-content {
+	padding: 10px;
+	}
+
+p {
+    margin: 0;
+    padding-left: 10px;
+}
